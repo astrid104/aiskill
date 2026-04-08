@@ -277,9 +277,56 @@
     .reason-text { font-size: 0.78rem; color: var(--text-muted); line-height: 1.5; }
     .jc-summary { font-size: 0.88rem; color: var(--text-muted); margin-bottom: 16px; }
     .jc-summary strong { color: var(--text); }
+  /* Auth overlay */
+  #auth-overlay {
+    position: fixed; inset: 0; z-index: 9999;
+    background: linear-gradient(135deg, #0041a8 0%, #0066cc 60%, #0099e6 100%);
+    display: flex; align-items: center; justify-content: center;
+  }
+  #auth-overlay.hidden { display: none; }
+  .auth-box {
+    background: white; border-radius: 20px;
+    padding: 48px 40px; width: 360px;
+    box-shadow: 0 24px 60px rgba(0,0,0,0.25);
+    text-align: center;
+  }
+  .auth-logo { font-size: 2.5rem; margin-bottom: 12px; }
+  .auth-title { font-size: 1.3rem; font-weight: 700; color: var(--text); margin-bottom: 6px; }
+  .auth-sub { font-size: 0.85rem; color: var(--text-muted); margin-bottom: 28px; }
+  .auth-input {
+    width: 100%; padding: 12px 16px;
+    border: 1.5px solid var(--border); border-radius: 10px;
+    font-size: 1rem; color: var(--text);
+    outline: none; transition: border-color 0.15s;
+    margin-bottom: 12px;
+    letter-spacing: 0.05em;
+  }
+  .auth-input:focus { border-color: var(--primary); }
+  .auth-input.error { border-color: #dc2626; }
+  .auth-btn {
+    width: 100%; padding: 12px;
+    background: var(--primary); color: white;
+    border: none; border-radius: 10px;
+    font-size: 1rem; font-weight: 600;
+    cursor: pointer; transition: background 0.15s;
+  }
+  .auth-btn:hover { background: #0052a3; }
+  .auth-error { font-size: 0.82rem; color: #dc2626; margin-top: 10px; min-height: 20px; }
   </style>
 </head>
 <body>
+
+<div id="auth-overlay">
+  <div class="auth-box">
+    <div class="auth-logo">🎯</div>
+    <div class="auth-title">NaBi AI 技能推薦系統</div>
+    <div class="auth-sub">請輸入密碼以繼續<br>密碼請洽 astrid.lin@104.com.tw、trulli.wu@104.com.tw</div>
+    <input class="auth-input" type="password" id="authInput" placeholder="密碼"
+      onkeydown="if(event.key==='Enter') checkAuth()" />
+    <button class="auth-btn" onclick="checkAuth()">進入</button>
+    <div class="auth-error" id="authError"></div>
+  </div>
+</div>
 
 <header class="header">
   <div class="header-left">
@@ -545,6 +592,27 @@ function selectCls3(cls3) {
 }
 
 /* INIT */
+/* Auth */
+(function() {
+  if (localStorage.getItem('nabi_auth') === '104nabi') {
+    document.getElementById('auth-overlay').classList.add('hidden');
+  }
+})();
+
+function checkAuth() {
+  const val = document.getElementById('authInput').value;
+  if (val === '104nabi') {
+    localStorage.setItem('nabi_auth', '104nabi');
+    document.getElementById('auth-overlay').classList.add('hidden');
+  } else {
+    const input = document.getElementById('authInput');
+    input.classList.add('error');
+    document.getElementById('authError').textContent = '密碼錯誤，請再試一次';
+    input.value = '';
+    setTimeout(() => input.classList.remove('error'), 1500);
+  }
+}
+
 applyFilterAndSort();
 render();
 </script>
