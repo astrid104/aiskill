@@ -1,0 +1,1339 @@
+[
+  {
+    "jobcat_cls2": "MIS / 網管類人員",
+    "jobcat_no2": 2007002000,
+    "skill": "流程自動化",
+    "skill_description": "透過 RPA、腳本或 AI 工具將重複性業務流程自動化，提升作業效率、降低人為錯誤，釋放人力聚焦高附加價值工作。",
+    "cnt": 144
+  },
+  {
+    "jobcat_cls2": "MIS / 網管類人員",
+    "jobcat_no2": 2007002000,
+    "skill": "ELKI",
+    "skill_description": "開源資料探勘框架，專為高維度數據的分群與異常偵測設計，提供豐富演算法實作，適用於學術研究與大規模數據分析。",
+    "cnt": 121
+  },
+  {
+    "jobcat_cls2": "MIS / 網管類人員",
+    "jobcat_no2": 2007002000,
+    "skill": "入侵防禦",
+    "skill_description": "偵測並阻擋網路異常流量與惡意攻擊行為，透過規則比對或機器學習即時識別威脅，保護系統與數據安全。",
+    "cnt": 76
+  },
+  {
+    "jobcat_cls2": "MIS / 網管類人員",
+    "jobcat_no2": 2007002000,
+    "skill": "行為監控",
+    "skill_description": "透過感測器、攝影機或日誌分析即時追蹤人員或設備行為，應用於安全監控、異常偵測與使用者體驗研究。",
+    "cnt": 51
+  },
+  {
+    "jobcat_cls2": "MIS / 網管類人員",
+    "jobcat_no2": 2007002000,
+    "skill": "機器學習演算法",
+    "skill_description": "設計並實作監督式、非監督式或強化學習模型，從數據中自動學習規律，應用於預測、分類與決策最佳化。",
+    "cnt": 50
+  },
+  {
+    "jobcat_cls2": "MIS / 網管類人員",
+    "jobcat_no2": 2007002000,
+    "skill": "TENSORFLOW",
+    "skill_description": "Google 開發的深度學習開源框架，支援大規模神經網路訓練與部署，廣泛應用於影像辨識、NLP 與 AI 產品開發。",
+    "cnt": 49
+  },
+  {
+    "jobcat_cls2": "MIS / 網管類人員",
+    "jobcat_no2": 2007002000,
+    "skill": "PYTORCH",
+    "skill_description": "Meta 開發的深度學習框架，以動態計算圖著稱，廣泛應用於學術研究、AI 模型訓練與快速原型開發。",
+    "cnt": 47
+  },
+  {
+    "jobcat_cls2": "MIS / 網管類人員",
+    "jobcat_no2": 2007002000,
+    "skill": "Splunk",
+    "skill_description": "企業級日誌分析與安全監控平台，透過搜尋、視覺化與機器學習協助 IT 與資安團隊即時偵測異常事件。",
+    "cnt": 45
+  },
+  {
+    "jobcat_cls2": "MIS / 網管類人員",
+    "jobcat_no2": 2007002000,
+    "skill": "CHATGPT",
+    "skill_description": "OpenAI 開發的大型語言模型對話工具，可進行文字生成、問答、摘要與程式輔助，廣泛應用於辦公自動化與創意協作。",
+    "cnt": 42
+  },
+  {
+    "jobcat_cls2": "人力資源類人員",
+    "jobcat_no2": 2001002000,
+    "skill": "CHATGPT",
+    "skill_description": "OpenAI 開發的大型語言模型對話工具，可進行文字生成、問答、摘要與程式輔助，廣泛應用於辦公自動化與創意協作。",
+    "cnt": 96
+  },
+  {
+    "jobcat_cls2": "人力資源類人員",
+    "jobcat_no2": 2001002000,
+    "skill": "統計模型",
+    "skill_description": "運用迴歸、時間序列等統計方法建立數據關係模型，用於預測趨勢、分析因果關係與支援科學及商業研究。",
+    "cnt": 21
+  },
+  {
+    "jobcat_cls2": "人力資源類人員",
+    "jobcat_no2": 2001002000,
+    "skill": "自然語言處理",
+    "skill_description": "讓電腦理解、分析並生成人類語言，涵蓋文本分類、情感分析、機器翻譯與對話系統等應用，為 AI 語言能力的核心技術。",
+    "cnt": null
+  },
+  {
+    "jobcat_cls2": "人力資源類人員",
+    "jobcat_no2": 2001002000,
+    "skill": "推薦系統",
+    "skill_description": "根據使用者行為與偏好，透過協同過濾或深度學習模型提供個人化推薦，廣泛應用於電商、串流平台與內容行銷。",
+    "cnt": null
+  },
+  {
+    "jobcat_cls2": "保全類人員",
+    "jobcat_no2": 2017002000,
+    "skill": "行為監控",
+    "skill_description": "透過感測器、攝影機或日誌分析即時追蹤人員或設備行為，應用於安全監控、異常偵測與使用者體驗研究。",
+    "cnt": 153
+  },
+  {
+    "jobcat_cls2": "保全類人員",
+    "jobcat_no2": 2017002000,
+    "skill": "AI電腦視覺",
+    "skill_description": "讓電腦從影像或視訊中理解視覺內容，涵蓋物件偵測、影像分類與人臉辨識，廣泛應用於製造、醫療與自駕車領域。",
+    "cnt": null
+  },
+  {
+    "jobcat_cls2": "保全類人員",
+    "jobcat_no2": 2017002000,
+    "skill": "預測分析",
+    "skill_description": "運用歷史數據與統計模型預測未來趨勢或事件，支援銷售預測、需求規劃、風險評估與業務決策最佳化。",
+    "cnt": null
+  },
+  {
+    "jobcat_cls2": "傳播藝術類人員",
+    "jobcat_no2": 2013002000,
+    "skill": "CHATGPT",
+    "skill_description": "OpenAI 開發的大型語言模型對話工具，可進行文字生成、問答、摘要與程式輔助，廣泛應用於辦公自動化與創意協作。",
+    "cnt": 134
+  },
+  {
+    "jobcat_cls2": "傳播藝術類人員",
+    "jobcat_no2": 2013002000,
+    "skill": "AI圖像生成",
+    "skill_description": "運用生成式AI模型（如 Diffusion Model）依文字描述自動產出圖像，廣泛應用於設計、廣告與內容創作，大幅縮短視覺素材製作時間。",
+    "cnt": 29
+  },
+  {
+    "jobcat_cls2": "傳播藝術類人員",
+    "jobcat_no2": 2013002000,
+    "skill": "RUNWAY",
+    "skill_description": "AI 創意工具平台，支援影片生成、圖像編輯與視覺特效製作，為設計師與創作者提供生成式 AI 輔助功能。",
+    "cnt": 25
+  },
+  {
+    "jobcat_cls2": "其他類人員",
+    "jobcat_no2": 2018002000,
+    "skill": "CHATGPT",
+    "skill_description": "OpenAI 開發的大型語言模型對話工具，可進行文字生成、問答、摘要與程式輔助，廣泛應用於辦公自動化與創意協作。",
+    "cnt": 24
+  },
+  {
+    "jobcat_cls2": "其他類人員",
+    "jobcat_no2": 2018002000,
+    "skill": "預測分析",
+    "skill_description": "運用歷史數據與統計模型預測未來趨勢或事件，支援銷售預測、需求規劃、風險評估與業務決策最佳化。",
+    "cnt": null
+  },
+  {
+    "jobcat_cls2": "其他類人員",
+    "jobcat_no2": 2018002000,
+    "skill": "自然語言處理",
+    "skill_description": "讓電腦理解、分析並生成人類語言，涵蓋文本分類、情感分析、機器翻譯與對話系統等應用，為 AI 語言能力的核心技術。",
+    "cnt": null
+  },
+  {
+    "jobcat_cls2": "化工材料研發類人員",
+    "jobcat_no2": 2008002000,
+    "skill": "統計模型",
+    "skill_description": "運用迴歸、時間序列等統計方法建立數據關係模型，用於預測趨勢、分析因果關係與支援科學及商業研究。",
+    "cnt": 24
+  },
+  {
+    "jobcat_cls2": "化工材料研發類人員",
+    "jobcat_no2": 2008002000,
+    "skill": "機器學習演算法",
+    "skill_description": "設計並實作監督式、非監督式或強化學習模型，從數據中自動學習規律，應用於預測、分類與決策最佳化。",
+    "cnt": null
+  },
+  {
+    "jobcat_cls2": "化工材料研發類人員",
+    "jobcat_no2": 2008002000,
+    "skill": "AI電腦視覺",
+    "skill_description": "讓電腦從影像或視訊中理解視覺內容，涵蓋物件偵測、影像分類與人臉辨識，廣泛應用於製造、醫療與自駕車領域。",
+    "cnt": null
+  },
+  {
+    "jobcat_cls2": "品保 / 品管類人員",
+    "jobcat_no2": 2009003000,
+    "skill": "自動化軟體測試",
+    "skill_description": "透過測試腳本與工具自動執行軟體驗證流程，提升測試覆蓋率與效率，確保軟體品質與系統穩定性。",
+    "cnt": 208
+  },
+  {
+    "jobcat_cls2": "品保 / 品管類人員",
+    "jobcat_no2": 2009003000,
+    "skill": "統計模型",
+    "skill_description": "運用迴歸、時間序列等統計方法建立數據關係模型，用於預測趨勢、分析因果關係與支援科學及商業研究。",
+    "cnt": 126
+  },
+  {
+    "jobcat_cls2": "品保 / 品管類人員",
+    "jobcat_no2": 2009003000,
+    "skill": "MATLAB",
+    "skill_description": "MathWorks 開發的數值計算與工程模擬平台，廣泛應用於訊號處理、控制系統設計、機器學習演算法開發與科學研究。",
+    "cnt": 50
+  },
+  {
+    "jobcat_cls2": "品保 / 品管類人員",
+    "jobcat_no2": 2009003000,
+    "skill": "流程自動化",
+    "skill_description": "透過 RPA、腳本或 AI 工具將重複性業務流程自動化，提升作業效率、降低人為錯誤，釋放人力聚焦高附加價值工作。",
+    "cnt": 32
+  },
+  {
+    "jobcat_cls2": "品保 / 品管類人員",
+    "jobcat_no2": 2009003000,
+    "skill": "AI電腦視覺",
+    "skill_description": "讓電腦從影像或視訊中理解視覺內容，涵蓋物件偵測、影像分類與人臉辨識，廣泛應用於製造、醫療與自駕車領域。",
+    "cnt": 29
+  },
+  {
+    "jobcat_cls2": "學術研究類人員",
+    "jobcat_no2": 2016001000,
+    "skill": "統計模型",
+    "skill_description": "運用迴歸、時間序列等統計方法建立數據關係模型，用於預測趨勢、分析因果關係與支援科學及商業研究。",
+    "cnt": 117
+  },
+  {
+    "jobcat_cls2": "學術研究類人員",
+    "jobcat_no2": 2016001000,
+    "skill": "GIS分析",
+    "skill_description": "利用地理資訊系統對空間數據進行採集、管理與視覺化分析，支援環境監測、城市規劃、農業精準管理與物流路線最佳化等決策。",
+    "cnt": 48
+  },
+  {
+    "jobcat_cls2": "學術研究類人員",
+    "jobcat_no2": 2016001000,
+    "skill": "機器學習演算法",
+    "skill_description": "設計並實作監督式、非監督式或強化學習模型，從數據中自動學習規律，應用於預測、分類與決策最佳化。",
+    "cnt": 43
+  },
+  {
+    "jobcat_cls2": "學術研究類人員",
+    "jobcat_no2": 2016001000,
+    "skill": "PYTORCH",
+    "skill_description": "Meta 開發的深度學習框架，以動態計算圖著稱，廣泛應用於學術研究、AI 模型訓練與快速原型開發。",
+    "cnt": 27
+  },
+  {
+    "jobcat_cls2": "學術研究類人員",
+    "jobcat_no2": 2016001000,
+    "skill": "MATLAB",
+    "skill_description": "MathWorks 開發的數值計算與工程模擬平台，廣泛應用於訊號處理、控制系統設計、機器學習演算法開發與科學研究。",
+    "cnt": 22
+  },
+  {
+    "jobcat_cls2": "學術研究類人員",
+    "jobcat_no2": 2016001000,
+    "skill": "TENSORFLOW",
+    "skill_description": "Google 開發的深度學習開源框架，支援大規模神經網路訓練與部署，廣泛應用於影像辨識、NLP 與 AI 產品開發。",
+    "cnt": 22
+  },
+  {
+    "jobcat_cls2": "客戶服務類人員",
+    "jobcat_no2": 2005001000,
+    "skill": "CHATGPT",
+    "skill_description": "OpenAI 開發的大型語言模型對話工具，可進行文字生成、問答、摘要與程式輔助，廣泛應用於辦公自動化與創意協作。",
+    "cnt": 98
+  },
+  {
+    "jobcat_cls2": "客戶服務類人員",
+    "jobcat_no2": 2005001000,
+    "skill": "自然語言處理",
+    "skill_description": "讓電腦理解、分析並生成人類語言，涵蓋文本分類、情感分析、機器翻譯與對話系統等應用，為 AI 語言能力的核心技術。",
+    "cnt": null
+  },
+  {
+    "jobcat_cls2": "客戶服務類人員",
+    "jobcat_no2": 2005001000,
+    "skill": "推薦系統",
+    "skill_description": "根據使用者行為與偏好，透過協同過濾或深度學習模型提供個人化推薦，廣泛應用於電商、串流平台與內容行銷。",
+    "cnt": null
+  },
+  {
+    "jobcat_cls2": "專案 / 產品管理類人員",
+    "jobcat_no2": 2004003000,
+    "skill": "CHATGPT",
+    "skill_description": "OpenAI 開發的大型語言模型對話工具，可進行文字生成、問答、摘要與程式輔助，廣泛應用於辦公自動化與創意協作。",
+    "cnt": 238
+  },
+  {
+    "jobcat_cls2": "專案 / 產品管理類人員",
+    "jobcat_no2": 2004003000,
+    "skill": "流程自動化",
+    "skill_description": "透過 RPA、腳本或 AI 工具將重複性業務流程自動化，提升作業效率、降低人為錯誤，釋放人力聚焦高附加價值工作。",
+    "cnt": 79
+  },
+  {
+    "jobcat_cls2": "專案 / 產品管理類人員",
+    "jobcat_no2": 2004003000,
+    "skill": "統計模型",
+    "skill_description": "運用迴歸、時間序列等統計方法建立數據關係模型，用於預測趨勢、分析因果關係與支援科學及商業研究。",
+    "cnt": 63
+  },
+  {
+    "jobcat_cls2": "專案 / 產品管理類人員",
+    "jobcat_no2": 2004003000,
+    "skill": "GIS分析",
+    "skill_description": "利用地理資訊系統對空間數據進行採集、管理與視覺化分析，支援環境監測、城市規劃、農業精準管理與物流路線最佳化等決策。",
+    "cnt": 59
+  },
+  {
+    "jobcat_cls2": "專案 / 產品管理類人員",
+    "jobcat_no2": 2004003000,
+    "skill": "Gemini",
+    "skill_description": "Google DeepMind 開發的多模態大型語言模型，支援文字、圖像與程式輸入，深度整合 Google 生產力工具，適用於跨模態分析與辦公協作。",
+    "cnt": 49
+  },
+  {
+    "jobcat_cls2": "專案 / 產品管理類人員",
+    "jobcat_no2": 2004003000,
+    "skill": "機器學習演算法",
+    "skill_description": "設計並實作監督式、非監督式或強化學習模型，從數據中自動學習規律，應用於預測、分類與決策最佳化。",
+    "cnt": 48
+  },
+  {
+    "jobcat_cls2": "專案 / 產品管理類人員",
+    "jobcat_no2": 2004003000,
+    "skill": "Claude",
+    "skill_description": "Anthropic 開發的大型語言模型，擅長長文本理解、複雜推理與程式輔助，以安全性與可信度著稱，適用於企業知識管理、文件分析與程式碼生成。",
+    "cnt": 38
+  },
+  {
+    "jobcat_cls2": "專案 / 產品管理類人員",
+    "jobcat_no2": 2004003000,
+    "skill": "自然語言處理",
+    "skill_description": "讓電腦理解、分析並生成人類語言，涵蓋文本分類、情感分析、機器翻譯與對話系統等應用，為 AI 語言能力的核心技術。",
+    "cnt": 34
+  },
+  {
+    "jobcat_cls2": "專案 / 產品管理類人員",
+    "jobcat_no2": 2004003000,
+    "skill": "COPILOT",
+    "skill_description": "Microsoft 與 OpenAI 合作推出的 AI 助理，整合於 Office 與開發環境，提供程式碼建議、文件撰寫與工作流程自動化輔助。",
+    "cnt": 29
+  },
+  {
+    "jobcat_cls2": "專案 / 產品管理類人員",
+    "jobcat_no2": 2004003000,
+    "skill": "AI電腦視覺",
+    "skill_description": "讓電腦從影像或視訊中理解視覺內容，涵蓋物件偵測、影像分類與人臉辨識，廣泛應用於製造、醫療與自駕車領域。",
+    "cnt": 25
+  },
+  {
+    "jobcat_cls2": "工程研發類人員",
+    "jobcat_no2": 2008001000,
+    "skill": "MATLAB",
+    "skill_description": "MathWorks 開發的數值計算與工程模擬平台，廣泛應用於訊號處理、控制系統設計、機器學習演算法開發與科學研究。",
+    "cnt": 361
+  },
+  {
+    "jobcat_cls2": "工程研發類人員",
+    "jobcat_no2": 2008001000,
+    "skill": "流程自動化",
+    "skill_description": "透過 RPA、腳本或 AI 工具將重複性業務流程自動化，提升作業效率、降低人為錯誤，釋放人力聚焦高附加價值工作。",
+    "cnt": 254
+  },
+  {
+    "jobcat_cls2": "工程研發類人員",
+    "jobcat_no2": 2008001000,
+    "skill": "ASIC設計",
+    "skill_description": "針對特定應用設計專用積體電路，透過硬體描述語言與 EDA 工具進行電路規劃與驗證，廣泛應用於 AI 晶片與嵌入式系統開發。",
+    "cnt": 241
+  },
+  {
+    "jobcat_cls2": "工程研發類人員",
+    "jobcat_no2": 2008001000,
+    "skill": "AI電腦視覺",
+    "skill_description": "讓電腦從影像或視訊中理解視覺內容，涵蓋物件偵測、影像分類與人臉辨識，廣泛應用於製造、醫療與自駕車領域。",
+    "cnt": 163
+  },
+  {
+    "jobcat_cls2": "工程研發類人員",
+    "jobcat_no2": 2008001000,
+    "skill": "機器學習演算法",
+    "skill_description": "設計並實作監督式、非監督式或強化學習模型，從數據中自動學習規律，應用於預測、分類與決策最佳化。",
+    "cnt": 67
+  },
+  {
+    "jobcat_cls2": "工程研發類人員",
+    "jobcat_no2": 2008001000,
+    "skill": "Simulink",
+    "skill_description": "MATLAB 整合的視覺化模型設計工具，用於動態系統模擬與嵌入式控制系統開發，廣泛應用於航太、汽車與工控領域。",
+    "cnt": 63
+  },
+  {
+    "jobcat_cls2": "工程研發類人員",
+    "jobcat_no2": 2008001000,
+    "skill": "機器人學",
+    "skill_description": "整合機械設計、感測器、控制演算法與 AI 技術，開發能自主感知環境並執行任務的機器人系統，應用於製造、醫療與服務領域。",
+    "cnt": 61
+  },
+  {
+    "jobcat_cls2": "工程研發類人員",
+    "jobcat_no2": 2008001000,
+    "skill": "OPENCV",
+    "skill_description": "開源電腦視覺函式庫，提供影像處理、物件偵測與特徵萃取等功能，廣泛應用於機器人、工業檢測與影像辨識系統。",
+    "cnt": 50
+  },
+  {
+    "jobcat_cls2": "採購 / 資材 / 倉管類人員",
+    "jobcat_no2": 2011001000,
+    "skill": "預測分析",
+    "skill_description": "運用歷史數據與統計模型預測未來趨勢或事件，支援銷售預測、需求規劃、風險評估與業務決策最佳化。",
+    "cnt": 65
+  },
+  {
+    "jobcat_cls2": "採購 / 資材 / 倉管類人員",
+    "jobcat_no2": 2011001000,
+    "skill": "CHATGPT",
+    "skill_description": "OpenAI 開發的大型語言模型對話工具，可進行文字生成、問答、摘要與程式輔助，廣泛應用於辦公自動化與創意協作。",
+    "cnt": 34
+  },
+  {
+    "jobcat_cls2": "採購 / 資材 / 倉管類人員",
+    "jobcat_no2": 2011001000,
+    "skill": "AI資料標註",
+    "skill_description": "為機器學習訓練資料加上標籤，包含影像標記、文字分類與語意標注，是確保 AI 模型品質的重要前置工作。",
+    "cnt": 32
+  },
+  {
+    "jobcat_cls2": "操作 / 技術類人員",
+    "jobcat_no2": 2010001000,
+    "skill": "機器學習演算法",
+    "skill_description": "設計並實作監督式、非監督式或強化學習模型，從數據中自動學習規律，應用於預測、分類與決策最佳化。",
+    "cnt": 85
+  },
+  {
+    "jobcat_cls2": "操作 / 技術類人員",
+    "jobcat_no2": 2010001000,
+    "skill": "流程自動化",
+    "skill_description": "透過 RPA、腳本或 AI 工具將重複性業務流程自動化，提升作業效率、降低人為錯誤，釋放人力聚焦高附加價值工作。",
+    "cnt": 64
+  },
+  {
+    "jobcat_cls2": "操作 / 技術類人員",
+    "jobcat_no2": 2010001000,
+    "skill": "機器人學",
+    "skill_description": "整合機械設計、感測器、控制演算法與 AI 技術，開發能自主感知環境並執行任務的機器人系統，應用於製造、醫療與服務領域。",
+    "cnt": 48
+  },
+  {
+    "jobcat_cls2": "操作 / 技術類人員",
+    "jobcat_no2": 2010001000,
+    "skill": "AI資料標註",
+    "skill_description": "為機器學習訓練資料加上標籤，包含影像標記、文字分類與語意標注，是確保 AI 模型品質的重要前置工作。",
+    "cnt": 40
+  },
+  {
+    "jobcat_cls2": "操作 / 技術類人員",
+    "jobcat_no2": 2010001000,
+    "skill": "AI電腦視覺",
+    "skill_description": "讓電腦從影像或視訊中理解視覺內容，涵蓋物件偵測、影像分類與人臉辨識，廣泛應用於製造、醫療與自駕車領域。",
+    "cnt": 22
+  },
+  {
+    "jobcat_cls2": "教育輔導類人員",
+    "jobcat_no2": 2016002000,
+    "skill": "CHATGPT",
+    "skill_description": "OpenAI 開發的大型語言模型對話工具，可進行文字生成、問答、摘要與程式輔助，廣泛應用於辦公自動化與創意協作。",
+    "cnt": 61
+  },
+  {
+    "jobcat_cls2": "教育輔導類人員",
+    "jobcat_no2": 2016002000,
+    "skill": "統計模型",
+    "skill_description": "運用迴歸、時間序列等統計方法建立數據關係模型，用於預測趨勢、分析因果關係與支援科學及商業研究。",
+    "cnt": 32
+  },
+  {
+    "jobcat_cls2": "教育輔導類人員",
+    "jobcat_no2": 2016002000,
+    "skill": "資料探勘",
+    "skill_description": "從大量資料中自動發掘隱藏規律與有價值資訊，結合統計與機器學習技術，支援商業智慧與數據驅動決策。",
+    "cnt": 29
+  },
+  {
+    "jobcat_cls2": "教育輔導類人員",
+    "jobcat_no2": 2016002000,
+    "skill": "Spark",
+    "skill_description": "Apache 開源的大規模資料處理框架，支援批次與串流運算，廣泛應用於大數據分析、機器學習管線與即時資料處理。",
+    "cnt": 26
+  },
+  {
+    "jobcat_cls2": "教育輔導類人員",
+    "jobcat_no2": 2016002000,
+    "skill": "機器學習演算法",
+    "skill_description": "設計並實作監督式、非監督式或強化學習模型，從數據中自動學習規律，應用於預測、分類與決策最佳化。",
+    "cnt": 23
+  },
+  {
+    "jobcat_cls2": "文字編譯類人員",
+    "jobcat_no2": 2014001000,
+    "skill": "CHATGPT",
+    "skill_description": "OpenAI 開發的大型語言模型對話工具，可進行文字生成、問答、摘要與程式輔助，廣泛應用於辦公自動化與創意協作。",
+    "cnt": 39
+  },
+  {
+    "jobcat_cls2": "文字編譯類人員",
+    "jobcat_no2": 2014001000,
+    "skill": "自然語言處理",
+    "skill_description": "讓電腦理解、分析並生成人類語言，涵蓋文本分類、情感分析、機器翻譯與對話系統等應用，為 AI 語言能力的核心技術。",
+    "cnt": null
+  },
+  {
+    "jobcat_cls2": "文字編譯類人員",
+    "jobcat_no2": 2014001000,
+    "skill": "提示工程",
+    "skill_description": "設計與優化輸入給大型語言模型的指令與情境描述，精準引導 AI 產出符合需求的高品質回應，為生成式 AI 應用的關鍵技術。",
+    "cnt": null
+  },
+  {
+    "jobcat_cls2": "旅遊休閒類人員",
+    "jobcat_no2": 2006002000,
+    "skill": "推薦系統",
+    "skill_description": "根據使用者行為與偏好，透過協同過濾或深度學習模型提供個人化推薦，廣泛應用於電商、串流平台與內容行銷。",
+    "cnt": null
+  },
+  {
+    "jobcat_cls2": "旅遊休閒類人員",
+    "jobcat_no2": 2006002000,
+    "skill": "自然語言處理",
+    "skill_description": "讓電腦理解、分析並生成人類語言，涵蓋文本分類、情感分析、機器翻譯與對話系統等應用，為 AI 語言能力的核心技術。",
+    "cnt": null
+  },
+  {
+    "jobcat_cls2": "旅遊休閒類人員",
+    "jobcat_no2": 2006002000,
+    "skill": "預測分析",
+    "skill_description": "運用歷史數據與統計模型預測未來趨勢或事件，支援銷售預測、需求規劃、風險評估與業務決策最佳化。",
+    "cnt": null
+  },
+  {
+    "jobcat_cls2": "業務銷售類人員",
+    "jobcat_no2": 2005003000,
+    "skill": "CHATGPT",
+    "skill_description": "OpenAI 開發的大型語言模型對話工具，可進行文字生成、問答、摘要與程式輔助，廣泛應用於辦公自動化與創意協作。",
+    "cnt": 326
+  },
+  {
+    "jobcat_cls2": "業務銷售類人員",
+    "jobcat_no2": 2005003000,
+    "skill": "自然語言處理",
+    "skill_description": "讓電腦理解、分析並生成人類語言，涵蓋文本分類、情感分析、機器翻譯與對話系統等應用，為 AI 語言能力的核心技術。",
+    "cnt": 154
+  },
+  {
+    "jobcat_cls2": "業務銷售類人員",
+    "jobcat_no2": 2005003000,
+    "skill": "預測分析",
+    "skill_description": "運用歷史數據與統計模型預測未來趨勢或事件，支援銷售預測、需求規劃、風險評估與業務決策最佳化。",
+    "cnt": 61
+  },
+  {
+    "jobcat_cls2": "業務銷售類人員",
+    "jobcat_no2": 2005003000,
+    "skill": "統計模型",
+    "skill_description": "運用迴歸、時間序列等統計方法建立數據關係模型，用於預測趨勢、分析因果關係與支援科學及商業研究。",
+    "cnt": 48
+  },
+  {
+    "jobcat_cls2": "業務銷售類人員",
+    "jobcat_no2": 2005003000,
+    "skill": "Gemini",
+    "skill_description": "Google DeepMind 開發的多模態大型語言模型，支援文字、圖像與程式輸入，深度整合 Google 生產力工具，適用於跨模態分析與辦公協作。",
+    "cnt": 40
+  },
+  {
+    "jobcat_cls2": "法務 / 智財類人員",
+    "jobcat_no2": 2002002000,
+    "skill": "行為監控",
+    "skill_description": "透過感測器、攝影機或日誌分析即時追蹤人員或設備行為，應用於安全監控、異常偵測與使用者體驗研究。",
+    "cnt": 73
+  },
+  {
+    "jobcat_cls2": "法務 / 智財類人員",
+    "jobcat_no2": 2002002000,
+    "skill": "CHATGPT",
+    "skill_description": "OpenAI 開發的大型語言模型對話工具，可進行文字生成、問答、摘要與程式輔助，廣泛應用於辦公自動化與創意協作。",
+    "cnt": 21
+  },
+  {
+    "jobcat_cls2": "法務 / 智財類人員",
+    "jobcat_no2": 2002002000,
+    "skill": "自然語言處理",
+    "skill_description": "讓電腦理解、分析並生成人類語言，涵蓋文本分類、情感分析、機器翻譯與對話系統等應用，為 AI 語言能力的核心技術。",
+    "cnt": null
+  },
+  {
+    "jobcat_cls2": "法務 / 智財類人員",
+    "jobcat_no2": 2002002000,
+    "skill": "預測分析",
+    "skill_description": "運用歷史數據與統計模型預測未來趨勢或事件，支援銷售預測、需求規劃、風險評估與業務決策最佳化。",
+    "cnt": null
+  },
+  {
+    "jobcat_cls2": "營建施作類人員",
+    "jobcat_no2": 2012002000,
+    "skill": "AI電腦視覺",
+    "skill_description": "讓電腦從影像或視訊中理解視覺內容，涵蓋物件偵測、影像分類與人臉辨識，廣泛應用於製造、醫療與自駕車領域。",
+    "cnt": null
+  },
+  {
+    "jobcat_cls2": "營建施作類人員",
+    "jobcat_no2": 2012002000,
+    "skill": "GIS分析",
+    "skill_description": "利用地理資訊系統對空間數據進行採集、管理與視覺化分析，支援環境監測、城市規劃、農業精準管理與物流路線最佳化等決策。",
+    "cnt": null
+  },
+  {
+    "jobcat_cls2": "營建施作類人員",
+    "jobcat_no2": 2012002000,
+    "skill": "預測分析",
+    "skill_description": "運用歷史數據與統計模型預測未來趨勢或事件，支援銷售預測、需求規劃、風險評估與業務決策最佳化。",
+    "cnt": null
+  },
+  {
+    "jobcat_cls2": "營建規劃類人員",
+    "jobcat_no2": 2012001000,
+    "skill": "GIS分析",
+    "skill_description": "利用地理資訊系統對空間數據進行採集、管理與視覺化分析，支援環境監測、城市規劃、農業精準管理與物流路線最佳化等決策。",
+    "cnt": 110
+  },
+  {
+    "jobcat_cls2": "營建規劃類人員",
+    "jobcat_no2": 2012001000,
+    "skill": "流程自動化",
+    "skill_description": "透過 RPA、腳本或 AI 工具將重複性業務流程自動化，提升作業效率、降低人為錯誤，釋放人力聚焦高附加價值工作。",
+    "cnt": 23
+  },
+  {
+    "jobcat_cls2": "營建規劃類人員",
+    "jobcat_no2": 2012001000,
+    "skill": "AI電腦視覺",
+    "skill_description": "讓電腦從影像或視訊中理解視覺內容，涵蓋物件偵測、影像分類與人臉辨識，廣泛應用於製造、醫療與自駕車領域。",
+    "cnt": null
+  },
+  {
+    "jobcat_cls2": "營建規劃類人員",
+    "jobcat_no2": 2012001000,
+    "skill": "預測分析",
+    "skill_description": "運用歷史數據與統計模型預測未來趨勢或事件，支援銷售預測、需求規劃、風險評估與業務決策最佳化。",
+    "cnt": null
+  },
+  {
+    "jobcat_cls2": "環境安全衛生類人員",
+    "jobcat_no2": 2009004000,
+    "skill": "統計模型",
+    "skill_description": "運用迴歸、時間序列等統計方法建立數據關係模型，用於預測趨勢、分析因果關係與支援科學及商業研究。",
+    "cnt": 33
+  },
+  {
+    "jobcat_cls2": "環境安全衛生類人員",
+    "jobcat_no2": 2009004000,
+    "skill": "AI電腦視覺",
+    "skill_description": "讓電腦從影像或視訊中理解視覺內容，涵蓋物件偵測、影像分類與人臉辨識，廣泛應用於製造、醫療與自駕車領域。",
+    "cnt": null
+  },
+  {
+    "jobcat_cls2": "環境安全衛生類人員",
+    "jobcat_no2": 2009004000,
+    "skill": "GIS分析",
+    "skill_description": "利用地理資訊系統對空間數據進行採集、管理與視覺化分析，支援環境監測、城市規劃、農業精準管理與物流路線最佳化等決策。",
+    "cnt": null
+  },
+  {
+    "jobcat_cls2": "生技 / 醫療研發類人員",
+    "jobcat_no2": 2008003000,
+    "skill": "統計模型",
+    "skill_description": "運用迴歸、時間序列等統計方法建立數據關係模型，用於預測趨勢、分析因果關係與支援科學及商業研究。",
+    "cnt": 25
+  },
+  {
+    "jobcat_cls2": "生技 / 醫療研發類人員",
+    "jobcat_no2": 2008003000,
+    "skill": "AI電腦視覺",
+    "skill_description": "讓電腦從影像或視訊中理解視覺內容，涵蓋物件偵測、影像分類與人臉辨識，廣泛應用於製造、醫療與自駕車領域。",
+    "cnt": null
+  },
+  {
+    "jobcat_cls2": "生技 / 醫療研發類人員",
+    "jobcat_no2": 2008003000,
+    "skill": "自然語言處理",
+    "skill_description": "讓電腦理解、分析並生成人類語言，涵蓋文本分類、情感分析、機器翻譯與對話系統等應用，為 AI 語言能力的核心技術。",
+    "cnt": null
+  },
+  {
+    "jobcat_cls2": "生產管理類人員",
+    "jobcat_no2": 2009001000,
+    "skill": "預測分析",
+    "skill_description": "運用歷史數據與統計模型預測未來趨勢或事件，支援銷售預測、需求規劃、風險評估與業務決策最佳化。",
+    "cnt": 160
+  },
+  {
+    "jobcat_cls2": "生產管理類人員",
+    "jobcat_no2": 2009001000,
+    "skill": "流程自動化",
+    "skill_description": "透過 RPA、腳本或 AI 工具將重複性業務流程自動化，提升作業效率、降低人為錯誤，釋放人力聚焦高附加價值工作。",
+    "cnt": 40
+  },
+  {
+    "jobcat_cls2": "生產管理類人員",
+    "jobcat_no2": 2009001000,
+    "skill": "統計模型",
+    "skill_description": "運用迴歸、時間序列等統計方法建立數據關係模型，用於預測趨勢、分析因果關係與支援科學及商業研究。",
+    "cnt": 21
+  },
+  {
+    "jobcat_cls2": "產品企劃類人員",
+    "jobcat_no2": 2004002000,
+    "skill": "CHATGPT",
+    "skill_description": "OpenAI 開發的大型語言模型對話工具，可進行文字生成、問答、摘要與程式輔助，廣泛應用於辦公自動化與創意協作。",
+    "cnt": 101
+  },
+  {
+    "jobcat_cls2": "產品企劃類人員",
+    "jobcat_no2": 2004002000,
+    "skill": "Gemini",
+    "skill_description": "Google DeepMind 開發的多模態大型語言模型，支援文字、圖像與程式輸入，深度整合 Google 生產力工具，適用於跨模態分析與辦公協作。",
+    "cnt": 23
+  },
+  {
+    "jobcat_cls2": "產品企劃類人員",
+    "jobcat_no2": 2004002000,
+    "skill": "自然語言處理",
+    "skill_description": "讓電腦理解、分析並生成人類語言，涵蓋文本分類、情感分析、機器翻譯與對話系統等應用，為 AI 語言能力的核心技術。",
+    "cnt": null
+  },
+  {
+    "jobcat_cls2": "產品企劃類人員",
+    "jobcat_no2": 2004002000,
+    "skill": "推薦系統",
+    "skill_description": "根據使用者行為與偏好，透過協同過濾或深度學習模型提供個人化推薦，廣泛應用於電商、串流平台與內容行銷。",
+    "cnt": null
+  },
+  {
+    "jobcat_cls2": "經營 / 幕僚類人員",
+    "jobcat_no2": 2001001000,
+    "skill": "CHATGPT",
+    "skill_description": "OpenAI 開發的大型語言模型對話工具，可進行文字生成、問答、摘要與程式輔助，廣泛應用於辦公自動化與創意協作。",
+    "cnt": 109
+  },
+  {
+    "jobcat_cls2": "經營 / 幕僚類人員",
+    "jobcat_no2": 2001001000,
+    "skill": "預測分析",
+    "skill_description": "運用歷史數據與統計模型預測未來趨勢或事件，支援銷售預測、需求規劃、風險評估與業務決策最佳化。",
+    "cnt": 50
+  },
+  {
+    "jobcat_cls2": "經營 / 幕僚類人員",
+    "jobcat_no2": 2001001000,
+    "skill": "自然語言處理",
+    "skill_description": "讓電腦理解、分析並生成人類語言，涵蓋文本分類、情感分析、機器翻譯與對話系統等應用，為 AI 語言能力的核心技術。",
+    "cnt": 27
+  },
+  {
+    "jobcat_cls2": "經營 / 幕僚類人員",
+    "jobcat_no2": 2001001000,
+    "skill": "統計模型",
+    "skill_description": "運用迴歸、時間序列等統計方法建立數據關係模型，用於預測趨勢、分析因果關係與支援科學及商業研究。",
+    "cnt": 25
+  },
+  {
+    "jobcat_cls2": "維修 / 技術服務類人員",
+    "jobcat_no2": 2010002000,
+    "skill": "流程自動化",
+    "skill_description": "透過 RPA、腳本或 AI 工具將重複性業務流程自動化，提升作業效率、降低人為錯誤，釋放人力聚焦高附加價值工作。",
+    "cnt": 106
+  },
+  {
+    "jobcat_cls2": "維修 / 技術服務類人員",
+    "jobcat_no2": 2010002000,
+    "skill": "CHATGPT",
+    "skill_description": "OpenAI 開發的大型語言模型對話工具，可進行文字生成、問答、摘要與程式輔助，廣泛應用於辦公自動化與創意協作。",
+    "cnt": 35
+  },
+  {
+    "jobcat_cls2": "維修 / 技術服務類人員",
+    "jobcat_no2": 2010002000,
+    "skill": "機器學習演算法",
+    "skill_description": "設計並實作監督式、非監督式或強化學習模型，從數據中自動學習規律，應用於預測、分類與決策最佳化。",
+    "cnt": 25
+  },
+  {
+    "jobcat_cls2": "維修 / 技術服務類人員",
+    "jobcat_no2": 2010002000,
+    "skill": "AI電腦視覺",
+    "skill_description": "讓電腦從影像或視訊中理解視覺內容，涵蓋物件偵測、影像分類與人臉辨識，廣泛應用於製造、醫療與自駕車領域。",
+    "cnt": 25
+  },
+  {
+    "jobcat_cls2": "美容 / 美髮類人員",
+    "jobcat_no2": 2006003000,
+    "skill": "AI圖像生成",
+    "skill_description": "運用生成式AI模型（如 Diffusion Model）依文字描述自動產出圖像，廣泛應用於設計、廣告與內容創作，大幅縮短視覺素材製作時間。",
+    "cnt": null
+  },
+  {
+    "jobcat_cls2": "美容 / 美髮類人員",
+    "jobcat_no2": 2006003000,
+    "skill": "推薦系統",
+    "skill_description": "根據使用者行為與偏好，透過協同過濾或深度學習模型提供個人化推薦，廣泛應用於電商、串流平台與內容行銷。",
+    "cnt": null
+  },
+  {
+    "jobcat_cls2": "美容 / 美髮類人員",
+    "jobcat_no2": 2006003000,
+    "skill": "AI電腦視覺",
+    "skill_description": "讓電腦從影像或視訊中理解視覺內容，涵蓋物件偵測、影像分類與人臉辨識，廣泛應用於製造、醫療與自駕車領域。",
+    "cnt": null
+  },
+  {
+    "jobcat_cls2": "行政 / 總務類人員",
+    "jobcat_no2": 2002001000,
+    "skill": "CHATGPT",
+    "skill_description": "OpenAI 開發的大型語言模型對話工具，可進行文字生成、問答、摘要與程式輔助，廣泛應用於辦公自動化與創意協作。",
+    "cnt": 308
+  },
+  {
+    "jobcat_cls2": "行政 / 總務類人員",
+    "jobcat_no2": 2002001000,
+    "skill": "統計模型",
+    "skill_description": "運用迴歸、時間序列等統計方法建立數據關係模型，用於預測趨勢、分析因果關係與支援科學及商業研究。",
+    "cnt": 83
+  },
+  {
+    "jobcat_cls2": "行政 / 總務類人員",
+    "jobcat_no2": 2002001000,
+    "skill": "Gemini",
+    "skill_description": "Google DeepMind 開發的多模態大型語言模型，支援文字、圖像與程式輸入，深度整合 Google 生產力工具，適用於跨模態分析與辦公協作。",
+    "cnt": 51
+  },
+  {
+    "jobcat_cls2": "行政 / 總務類人員",
+    "jobcat_no2": 2002001000,
+    "skill": "預測分析",
+    "skill_description": "運用歷史數據與統計模型預測未來趨勢或事件，支援銷售預測、需求規劃、風險評估與業務決策最佳化。",
+    "cnt": 49
+  },
+  {
+    "jobcat_cls2": "行銷類人員",
+    "jobcat_no2": 2004001000,
+    "skill": "CHATGPT",
+    "skill_description": "OpenAI 開發的大型語言模型對話工具，可進行文字生成、問答、摘要與程式輔助，廣泛應用於辦公自動化與創意協作。",
+    "cnt": 687
+  },
+  {
+    "jobcat_cls2": "行銷類人員",
+    "jobcat_no2": 2004001000,
+    "skill": "統計模型",
+    "skill_description": "運用迴歸、時間序列等統計方法建立數據關係模型，用於預測趨勢、分析因果關係與支援科學及商業研究。",
+    "cnt": 147
+  },
+  {
+    "jobcat_cls2": "行銷類人員",
+    "jobcat_no2": 2004001000,
+    "skill": "Gemini",
+    "skill_description": "Google DeepMind 開發的多模態大型語言模型，支援文字、圖像與程式輸入，深度整合 Google 生產力工具，適用於跨模態分析與辦公協作。",
+    "cnt": 141
+  },
+  {
+    "jobcat_cls2": "行銷類人員",
+    "jobcat_no2": 2004001000,
+    "skill": "自然語言處理",
+    "skill_description": "讓電腦理解、分析並生成人類語言，涵蓋文本分類、情感分析、機器翻譯與對話系統等應用，為 AI 語言能力的核心技術。",
+    "cnt": 65
+  },
+  {
+    "jobcat_cls2": "行銷類人員",
+    "jobcat_no2": 2004001000,
+    "skill": "預測分析",
+    "skill_description": "運用歷史數據與統計模型預測未來趨勢或事件，支援銷售預測、需求規劃、風險評估與業務決策最佳化。",
+    "cnt": 56
+  },
+  {
+    "jobcat_cls2": "行銷類人員",
+    "jobcat_no2": 2004001000,
+    "skill": "機器學習演算法",
+    "skill_description": "設計並實作監督式、非監督式或強化學習模型，從數據中自動學習規律，應用於預測、分類與決策最佳化。",
+    "cnt": 54
+  },
+  {
+    "jobcat_cls2": "行銷類人員",
+    "jobcat_no2": 2004001000,
+    "skill": "Claude",
+    "skill_description": "Anthropic 開發的大型語言模型，擅長長文本理解、複雜推理與程式輔助，以安全性與可信度著稱，適用於企業知識管理、文件分析與程式碼生成。",
+    "cnt": 48
+  },
+  {
+    "jobcat_cls2": "行銷類人員",
+    "jobcat_no2": 2004001000,
+    "skill": "流程自動化",
+    "skill_description": "透過 RPA、腳本或 AI 工具將重複性業務流程自動化，提升作業效率、降低人為錯誤，釋放人力聚焦高附加價值工作。",
+    "cnt": 39
+  },
+  {
+    "jobcat_cls2": "行銷類人員",
+    "jobcat_no2": 2004001000,
+    "skill": "AI圖像生成",
+    "skill_description": "運用生成式AI模型（如 Diffusion Model）依文字描述自動產出圖像，廣泛應用於設計、廣告與內容創作，大幅縮短視覺素材製作時間。",
+    "cnt": 38
+  },
+  {
+    "jobcat_cls2": "製圖 / 測量類人員",
+    "jobcat_no2": 2012003000,
+    "skill": "AI電腦視覺",
+    "skill_description": "讓電腦從影像或視訊中理解視覺內容，涵蓋物件偵測、影像分類與人臉辨識，廣泛應用於製造、醫療與自駕車領域。",
+    "cnt": 47
+  },
+  {
+    "jobcat_cls2": "製圖 / 測量類人員",
+    "jobcat_no2": 2012003000,
+    "skill": "GIS分析",
+    "skill_description": "利用地理資訊系統對空間數據進行採集、管理與視覺化分析，支援環境監測、城市規劃、農業精準管理與物流路線最佳化等決策。",
+    "cnt": 36
+  },
+  {
+    "jobcat_cls2": "製圖 / 測量類人員",
+    "jobcat_no2": 2012003000,
+    "skill": "流程自動化",
+    "skill_description": "透過 RPA、腳本或 AI 工具將重複性業務流程自動化，提升作業效率、降低人為錯誤，釋放人力聚焦高附加價值工作。",
+    "cnt": 30
+  },
+  {
+    "jobcat_cls2": "製程規劃類人員",
+    "jobcat_no2": 2009002000,
+    "skill": "流程自動化",
+    "skill_description": "透過 RPA、腳本或 AI 工具將重複性業務流程自動化，提升作業效率、降低人為錯誤，釋放人力聚焦高附加價值工作。",
+    "cnt": 176
+  },
+  {
+    "jobcat_cls2": "製程規劃類人員",
+    "jobcat_no2": 2009002000,
+    "skill": "AI電腦視覺",
+    "skill_description": "讓電腦從影像或視訊中理解視覺內容，涵蓋物件偵測、影像分類與人臉辨識，廣泛應用於製造、醫療與自駕車領域。",
+    "cnt": 73
+  },
+  {
+    "jobcat_cls2": "製程規劃類人員",
+    "jobcat_no2": 2009002000,
+    "skill": "機器人學",
+    "skill_description": "整合機械設計、感測器、控制演算法與 AI 技術，開發能自主感知環境並執行任務的機器人系統，應用於製造、醫療與服務領域。",
+    "cnt": 55
+  },
+  {
+    "jobcat_cls2": "製程規劃類人員",
+    "jobcat_no2": 2009002000,
+    "skill": "機器學習演算法",
+    "skill_description": "設計並實作監督式、非監督式或強化學習模型，從數據中自動學習規律，應用於預測、分類與決策最佳化。",
+    "cnt": 54
+  },
+  {
+    "jobcat_cls2": "製程規劃類人員",
+    "jobcat_no2": 2009002000,
+    "skill": "MATLAB",
+    "skill_description": "MathWorks 開發的數值計算與工程模擬平台，廣泛應用於訊號處理、控制系統設計、機器學習演算法開發與科學研究。",
+    "cnt": 47
+  },
+  {
+    "jobcat_cls2": "製程規劃類人員",
+    "jobcat_no2": 2009002000,
+    "skill": "統計模型",
+    "skill_description": "運用迴歸、時間序列等統計方法建立數據關係模型，用於預測趨勢、分析因果關係與支援科學及商業研究。",
+    "cnt": 40
+  },
+  {
+    "jobcat_cls2": "製程規劃類人員",
+    "jobcat_no2": 2009002000,
+    "skill": "OPENCV",
+    "skill_description": "開源電腦視覺函式庫，提供影像處理、物件偵測與特徵萃取等功能，廣泛應用於機器人、工業檢測與影像辨識系統。",
+    "cnt": 32
+  },
+  {
+    "jobcat_cls2": "製程規劃類人員",
+    "jobcat_no2": 2009002000,
+    "skill": "COPILOT",
+    "skill_description": "Microsoft 與 OpenAI 合作推出的 AI 助理，整合於 Office 與開發環境，提供程式碼建議、文件撰寫與工作流程自動化輔助。",
+    "cnt": 28
+  },
+  {
+    "jobcat_cls2": "製程規劃類人員",
+    "jobcat_no2": 2009002000,
+    "skill": "機器人工程師證照",
+    "skill_description": "驗證持有者具備機器人系統設計、程式開發與整合應用的專業能力，適用於製造自動化、智慧機械與工業 4.0 相關職務。",
+    "cnt": 26
+  },
+  {
+    "jobcat_cls2": "記者及採訪類人員",
+    "jobcat_no2": 2014002000,
+    "skill": "自然語言處理",
+    "skill_description": "讓電腦理解、分析並生成人類語言，涵蓋文本分類、情感分析、機器翻譯與對話系統等應用，為 AI 語言能力的核心技術。",
+    "cnt": 0
+  },
+  {
+    "jobcat_cls2": "記者及採訪類人員",
+    "jobcat_no2": 2014002000,
+    "skill": "AI圖像生成",
+    "skill_description": "運用生成式AI模型（如 Diffusion Model）依文字描述自動產出圖像，廣泛應用於設計、廣告與內容創作，大幅縮短視覺素材製作時間。",
+    "cnt": null
+  },
+  {
+    "jobcat_cls2": "設計類人員",
+    "jobcat_no2": 2013001000,
+    "skill": "CHATGPT",
+    "skill_description": "OpenAI 開發的大型語言模型對話工具，可進行文字生成、問答、摘要與程式輔助，廣泛應用於辦公自動化與創意協作。",
+    "cnt": 127
+  },
+  {
+    "jobcat_cls2": "設計類人員",
+    "jobcat_no2": 2013001000,
+    "skill": "AI圖像生成",
+    "skill_description": "運用生成式AI模型（如 Diffusion Model）依文字描述自動產出圖像，廣泛應用於設計、廣告與內容創作，大幅縮短視覺素材製作時間。",
+    "cnt": 85
+  },
+  {
+    "jobcat_cls2": "設計類人員",
+    "jobcat_no2": 2013001000,
+    "skill": "AI電腦視覺",
+    "skill_description": "讓電腦從影像或視訊中理解視覺內容，涵蓋物件偵測、影像分類與人臉辨識，廣泛應用於製造、醫療與自駕車領域。",
+    "cnt": 61
+  },
+  {
+    "jobcat_cls2": "設計類人員",
+    "jobcat_no2": 2013001000,
+    "skill": "RUNWAY",
+    "skill_description": "AI 創意工具平台，支援影片生成、圖像編輯與視覺特效製作，為設計師與創作者提供生成式 AI 輔助功能。",
+    "cnt": 40
+  },
+  {
+    "jobcat_cls2": "設計類人員",
+    "jobcat_no2": 2013001000,
+    "skill": "Gemini",
+    "skill_description": "Google DeepMind 開發的多模態大型語言模型，支援文字、圖像與程式輸入，深度整合 Google 生產力工具，適用於跨模態分析與辦公協作。",
+    "cnt": 39
+  },
+  {
+    "jobcat_cls2": "財務 / 會計 / 稅務類",
+    "jobcat_no2": 2003001000,
+    "skill": "預測分析",
+    "skill_description": "運用歷史數據與統計模型預測未來趨勢或事件，支援銷售預測、需求規劃、風險評估與業務決策最佳化。",
+    "cnt": 86
+  },
+  {
+    "jobcat_cls2": "財務 / 會計 / 稅務類",
+    "jobcat_no2": 2003001000,
+    "skill": "統計模型",
+    "skill_description": "運用迴歸、時間序列等統計方法建立數據關係模型，用於預測趨勢、分析因果關係與支援科學及商業研究。",
+    "cnt": 80
+  },
+  {
+    "jobcat_cls2": "財務 / 會計 / 稅務類",
+    "jobcat_no2": 2003001000,
+    "skill": "CHATGPT",
+    "skill_description": "OpenAI 開發的大型語言模型對話工具，可進行文字生成、問答、摘要與程式輔助，廣泛應用於辦公自動化與創意協作。",
+    "cnt": 64
+  },
+  {
+    "jobcat_cls2": "財務 / 會計 / 稅務類",
+    "jobcat_no2": 2003001000,
+    "skill": "行為監控",
+    "skill_description": "透過感測器、攝影機或日誌分析即時追蹤人員或設備行為，應用於安全監控、異常偵測與使用者體驗研究。",
+    "cnt": 22
+  },
+  {
+    "jobcat_cls2": "貿易類人員",
+    "jobcat_no2": 2005004000,
+    "skill": "CHATGPT",
+    "skill_description": "OpenAI 開發的大型語言模型對話工具，可進行文字生成、問答、摘要與程式輔助，廣泛應用於辦公自動化與創意協作。",
+    "cnt": 41
+  },
+  {
+    "jobcat_cls2": "貿易類人員",
+    "jobcat_no2": 2005004000,
+    "skill": "預測分析",
+    "skill_description": "運用歷史數據與統計模型預測未來趨勢或事件，支援銷售預測、需求規劃、風險評估與業務決策最佳化。",
+    "cnt": null
+  },
+  {
+    "jobcat_cls2": "貿易類人員",
+    "jobcat_no2": 2005004000,
+    "skill": "自然語言處理",
+    "skill_description": "讓電腦理解、分析並生成人類語言，涵蓋文本分類、情感分析、機器翻譯與對話系統等應用，為 AI 語言能力的核心技術。",
+    "cnt": null
+  },
+  {
+    "jobcat_cls2": "軍警消防類人員",
+    "jobcat_no2": 2017001000,
+    "skill": "AI電腦視覺",
+    "skill_description": "讓電腦從影像或視訊中理解視覺內容，涵蓋物件偵測、影像分類與人臉辨識，廣泛應用於製造、醫療與自駕車領域。",
+    "cnt": null
+  },
+  {
+    "jobcat_cls2": "軍警消防類人員",
+    "jobcat_no2": 2017001000,
+    "skill": "預測分析",
+    "skill_description": "運用歷史數據與統計模型預測未來趨勢或事件，支援銷售預測、需求規劃、風險評估與業務決策最佳化。",
+    "cnt": null
+  },
+  {
+    "jobcat_cls2": "軍警消防類人員",
+    "jobcat_no2": 2017001000,
+    "skill": "GIS分析",
+    "skill_description": "利用地理資訊系統對空間數據進行採集、管理與視覺化分析，支援環境監測、城市規劃、農業精準管理與物流路線最佳化等決策。",
+    "cnt": null
+  },
+  {
+    "jobcat_cls2": "軟體 / 工程類人員",
+    "jobcat_no2": 2007001000,
+    "skill": "PYTORCH",
+    "skill_description": "Meta 開發的深度學習框架，以動態計算圖著稱，廣泛應用於學術研究、AI 模型訓練與快速原型開發。",
+    "cnt": 712
+  },
+  {
+    "jobcat_cls2": "軟體 / 工程類人員",
+    "jobcat_no2": 2007001000,
+    "skill": "機器學習演算法",
+    "skill_description": "設計並實作監督式、非監督式或強化學習模型，從數據中自動學習規律，應用於預測、分類與決策最佳化。",
+    "cnt": 692
+  },
+  {
+    "jobcat_cls2": "軟體 / 工程類人員",
+    "jobcat_no2": 2007001000,
+    "skill": "TENSORFLOW",
+    "skill_description": "Google 開發的深度學習開源框架，支援大規模神經網路訓練與部署，廣泛應用於影像辨識、NLP 與 AI 產品開發。",
+    "cnt": 675
+  },
+  {
+    "jobcat_cls2": "軟體 / 工程類人員",
+    "jobcat_no2": 2007001000,
+    "skill": "AI電腦視覺",
+    "skill_description": "讓電腦從影像或視訊中理解視覺內容，涵蓋物件偵測、影像分類與人臉辨識，廣泛應用於製造、醫療與自駕車領域。",
+    "cnt": 585
+  },
+  {
+    "jobcat_cls2": "軟體 / 工程類人員",
+    "jobcat_no2": 2007001000,
+    "skill": "OPENCV",
+    "skill_description": "開源電腦視覺函式庫，提供影像處理、物件偵測與特徵萃取等功能，廣泛應用於機器人、工業檢測與影像辨識系統。",
+    "cnt": 347
+  },
+  {
+    "jobcat_cls2": "軟體 / 工程類人員",
+    "jobcat_no2": 2007001000,
+    "skill": "MATLAB",
+    "skill_description": "MathWorks 開發的數值計算與工程模擬平台，廣泛應用於訊號處理、控制系統設計、機器學習演算法開發與科學研究。",
+    "cnt": 304
+  },
+  {
+    "jobcat_cls2": "軟體 / 工程類人員",
+    "jobcat_no2": 2007001000,
+    "skill": "自動化軟體測試",
+    "skill_description": "透過測試腳本與工具自動執行軟體驗證流程，提升測試覆蓋率與效率，確保軟體品質與系統穩定性。",
+    "cnt": 289
+  },
+  {
+    "jobcat_cls2": "軟體 / 工程類人員",
+    "jobcat_no2": 2007001000,
+    "skill": "自然語言處理",
+    "skill_description": "讓電腦理解、分析並生成人類語言，涵蓋文本分類、情感分析、機器翻譯與對話系統等應用，為 AI 語言能力的核心技術。",
+    "cnt": 276
+  },
+  {
+    "jobcat_cls2": "農林漁牧相關類人員",
+    "jobcat_no2": 2018001000,
+    "skill": "AI電腦視覺",
+    "skill_description": "讓電腦從影像或視訊中理解視覺內容，涵蓋物件偵測、影像分類與人臉辨識，廣泛應用於製造、醫療與自駕車領域。",
+    "cnt": null
+  },
+  {
+    "jobcat_cls2": "農林漁牧相關類人員",
+    "jobcat_no2": 2018001000,
+    "skill": "預測分析",
+    "skill_description": "運用歷史數據與統計模型預測未來趨勢或事件，支援銷售預測、需求規劃、風險評估與業務決策最佳化。",
+    "cnt": null
+  },
+  {
+    "jobcat_cls2": "農林漁牧相關類人員",
+    "jobcat_no2": 2018001000,
+    "skill": "GIS分析",
+    "skill_description": "利用地理資訊系統對空間數據進行採集、管理與視覺化分析，支援環境監測、城市規劃、農業精準管理與物流路線最佳化等決策。",
+    "cnt": null
+  },
+  {
+    "jobcat_cls2": "運輸物流類人員",
+    "jobcat_no2": 2011002000,
+    "skill": "AI資料標註",
+    "skill_description": "為機器學習訓練資料加上標籤，包含影像標記、文字分類與語意標注，是確保 AI 模型品質的重要前置工作。",
+    "cnt": 26
+  },
+  {
+    "jobcat_cls2": "運輸物流類人員",
+    "jobcat_no2": 2011002000,
+    "skill": "資料探勘",
+    "skill_description": "從大量資料中自動發掘隱藏規律與有價值資訊，結合統計與機器學習技術，支援商業智慧與數據驅動決策。",
+    "cnt": 21
+  },
+  {
+    "jobcat_cls2": "運輸物流類人員",
+    "jobcat_no2": 2011002000,
+    "skill": "預測分析",
+    "skill_description": "運用歷史數據與統計模型預測未來趨勢或事件，支援銷售預測、需求規劃、風險評估與業務決策最佳化。",
+    "cnt": null
+  },
+  {
+    "jobcat_cls2": "運輸物流類人員",
+    "jobcat_no2": 2011002000,
+    "skill": "AI電腦視覺",
+    "skill_description": "讓電腦從影像或視訊中理解視覺內容，涵蓋物件偵測、影像分類與人臉辨識，廣泛應用於製造、醫療與自駕車領域。",
+    "cnt": null
+  },
+  {
+    "jobcat_cls2": "醫療保健服務人員",
+    "jobcat_no2": 2015002000,
+    "skill": "統計模型",
+    "skill_description": "運用迴歸、時間序列等統計方法建立數據關係模型，用於預測趨勢、分析因果關係與支援科學及商業研究。",
+    "cnt": 54
+  },
+  {
+    "jobcat_cls2": "醫療保健服務人員",
+    "jobcat_no2": 2015002000,
+    "skill": "AI電腦視覺",
+    "skill_description": "讓電腦從影像或視訊中理解視覺內容，涵蓋物件偵測、影像分類與人臉辨識，廣泛應用於製造、醫療與自駕車領域。",
+    "cnt": null
+  },
+  {
+    "jobcat_cls2": "醫療保健服務人員",
+    "jobcat_no2": 2015002000,
+    "skill": "自然語言處理",
+    "skill_description": "讓電腦理解、分析並生成人類語言，涵蓋文本分類、情感分析、機器翻譯與對話系統等應用，為 AI 語言能力的核心技術。",
+    "cnt": null
+  },
+  {
+    "jobcat_cls2": "醫療專業人員",
+    "jobcat_no2": 2015001000,
+    "skill": "統計模型",
+    "skill_description": "運用迴歸、時間序列等統計方法建立數據關係模型，用於預測趨勢、分析因果關係與支援科學及商業研究。",
+    "cnt": 33
+  },
+  {
+    "jobcat_cls2": "醫療專業人員",
+    "jobcat_no2": 2015001000,
+    "skill": "AI電腦視覺",
+    "skill_description": "讓電腦從影像或視訊中理解視覺內容，涵蓋物件偵測、影像分類與人臉辨識，廣泛應用於製造、醫療與自駕車領域。",
+    "cnt": null
+  },
+  {
+    "jobcat_cls2": "醫療專業人員",
+    "jobcat_no2": 2015001000,
+    "skill": "自然語言處理",
+    "skill_description": "讓電腦理解、分析並生成人類語言，涵蓋文本分類、情感分析、機器翻譯與對話系統等應用，為 AI 語言能力的核心技術。",
+    "cnt": null
+  },
+  {
+    "jobcat_cls2": "金融專業相關類人員",
+    "jobcat_no2": 2003002000,
+    "skill": "行為監控",
+    "skill_description": "透過感測器、攝影機或日誌分析即時追蹤人員或設備行為，應用於安全監控、異常偵測與使用者體驗研究。",
+    "cnt": 82
+  },
+  {
+    "jobcat_cls2": "金融專業相關類人員",
+    "jobcat_no2": 2003002000,
+    "skill": "統計模型",
+    "skill_description": "運用迴歸、時間序列等統計方法建立數據關係模型，用於預測趨勢、分析因果關係與支援科學及商業研究。",
+    "cnt": 66
+  },
+  {
+    "jobcat_cls2": "金融專業相關類人員",
+    "jobcat_no2": 2003002000,
+    "skill": "量化金融",
+    "skill_description": "運用數學模型、統計分析與演算法進行金融資產定價、風險管理與交易策略開發，為量化投資的核心技術。",
+    "cnt": 31
+  },
+  {
+    "jobcat_cls2": "金融專業相關類人員",
+    "jobcat_no2": 2003002000,
+    "skill": "CHATGPT",
+    "skill_description": "OpenAI 開發的大型語言模型對話工具，可進行文字生成、問答、摘要與程式輔助，廣泛應用於辦公自動化與創意協作。",
+    "cnt": 27
+  },
+  {
+    "jobcat_cls2": "金融專業相關類人員",
+    "jobcat_no2": 2003002000,
+    "skill": "MATLAB",
+    "skill_description": "MathWorks 開發的數值計算與工程模擬平台，廣泛應用於訊號處理、控制系統設計、機器學習演算法開發與科學研究。",
+    "cnt": 24
+  },
+  {
+    "jobcat_cls2": "金融專業相關類人員",
+    "jobcat_no2": 2003002000,
+    "skill": "機器學習演算法",
+    "skill_description": "設計並實作監督式、非監督式或強化學習模型，從數據中自動學習規律，應用於預測、分類與決策最佳化。",
+    "cnt": 22
+  },
+  {
+    "jobcat_cls2": "門市營業類人員",
+    "jobcat_no2": 2005002000,
+    "skill": "CHATGPT",
+    "skill_description": "OpenAI 開發的大型語言模型對話工具，可進行文字生成、問答、摘要與程式輔助，廣泛應用於辦公自動化與創意協作。",
+    "cnt": 37
+  },
+  {
+    "jobcat_cls2": "門市營業類人員",
+    "jobcat_no2": 2005002000,
+    "skill": "推薦系統",
+    "skill_description": "根據使用者行為與偏好，透過協同過濾或深度學習模型提供個人化推薦，廣泛應用於電商、串流平台與內容行銷。",
+    "cnt": null
+  },
+  {
+    "jobcat_cls2": "門市營業類人員",
+    "jobcat_no2": 2005002000,
+    "skill": "預測分析",
+    "skill_description": "運用歷史數據與統計模型預測未來趨勢或事件，支援銷售預測、需求規劃、風險評估與業務決策最佳化。",
+    "cnt": null
+  },
+  {
+    "jobcat_cls2": "餐飲類人員",
+    "jobcat_no2": 2006001000,
+    "skill": "推薦系統",
+    "skill_description": "根據使用者行為與偏好，透過協同過濾或深度學習模型提供個人化推薦，廣泛應用於電商、串流平台與內容行銷。",
+    "cnt": null
+  },
+  {
+    "jobcat_cls2": "餐飲類人員",
+    "jobcat_no2": 2006001000,
+    "skill": "預測分析",
+    "skill_description": "運用歷史數據與統計模型預測未來趨勢或事件，支援銷售預測、需求規劃、風險評估與業務決策最佳化。",
+    "cnt": null
+  },
+  {
+    "jobcat_cls2": "餐飲類人員",
+    "jobcat_no2": 2006001000,
+    "skill": "自然語言處理",
+    "skill_description": "讓電腦理解、分析並生成人類語言，涵蓋文本分類、情感分析、機器翻譯與對話系統等應用，為 AI 語言能力的核心技術。",
+    "cnt": null
+  }
+]
