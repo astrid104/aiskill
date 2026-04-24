@@ -331,7 +331,7 @@
 <header class="header">
   <div class="header-left">
     <h1>🎯 NaBi AI 技能推薦系統</h1>
-    <p>AI 技能描述推薦課程 · 職類技能需求分析 · 資料更新：2025-03-30</p>
+    <p>AI 技能描述推薦課程 · 職類技能需求分析 · 資料更新：2026/4/23</p>
   </div>
 </header>
 
@@ -383,18 +383,21 @@ const THRESHOLD = 0.50;
 const PAGE_SIZE = 10;
 
 /* TAB SWITCH */
-function switchTab(tab) {
+function switchTab(tab, updateHash = true) {
   document.querySelectorAll('.main-tab').forEach(t => t.classList.remove('active'));
   document.querySelectorAll('.tab-content').forEach(t => t.classList.remove('active'));
   if (tab === 'course') {
     document.querySelector('.main-tab:nth-child(1)').classList.add('active');
     document.getElementById('tab-course').classList.add('active');
+    if (updateHash) history.replaceState(null, '', '#course');
   } else {
     document.querySelector('.main-tab:nth-child(2)').classList.add('active');
     document.getElementById('tab-jobcat').classList.add('active');
     if (!jcInitialized) initJobcat();
+    if (updateHash) history.replaceState(null, '', '#jobcat');
   }
 }
+
 
 /* TAB 1 */
 let currentPage = 1;
@@ -615,6 +618,9 @@ function checkAuth() {
 
 applyFilterAndSort();
 render();
+
+// Activate tab based on URL hash on load
+if (window.location.hash === '#jobcat') switchTab('jobcat', false);
 </script>
 </body>
 </html>
